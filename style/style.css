@@ -179,20 +179,20 @@ nav ul li a.active
   /* top: -500px;
   left: 200px; */
   margin-top: -230px;
-  margin-left: 150px;
+  margin-left: 349px;
   font-weight: 400;
   font-size: 25px;
   /* padding-bottom: 100px; */
 }
 
 .main-info h1{
-  color: #F7941D;
+  color: #fff;
   font-family: 'Orelega One', cursive;
   letter-spacing: 0px;
   line-height: 55px;
 }
 .main-info h2{
-  color: #fff;
+  color: #8d591a;
   font-family: 'Ubuntu', sans-serif;
   margin-top: 10px;
   font-size: 20px;
